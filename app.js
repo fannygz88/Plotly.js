@@ -1,5 +1,5 @@
 //Loading the data
-var url = '../samples.json'
+var url = 'samples.json'
 const dataJson = d3.json(url);
 
 //Variables to select the elemente that are going to be used
